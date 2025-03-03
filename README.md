@@ -93,8 +93,7 @@ You will need a session ID to run the MAFIA-MD. Click the button below to obtain
 <p style="text-align: center; font-size: 1.2em;">
 
 
-<p align="center">
-<a href='[https://dashboard.heroku.com/new?template=https://github.com/ADEELSABQI786/MAFIA-MD-V1](https://dashboard.heroku.com/new?template=https://github.com/ADEELSABQI786/MAFIA-MD-V1)' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ADEELSABQI786/MAFIA-MD-V1)
 
 <h4 align="center">2. TaikDrove Free</h4>
 <p style="text-align: center; font-size: 1.2em;">
