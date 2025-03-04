@@ -69,19 +69,6 @@ You will need a session ID to run the MAFIA-MD. Click the button below to obtain
 </a>
 <br> 
 
-> **Get Pair Code (Session ID)**
-
-<a href='https://khanmdx2.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=opencv&logoColor=white'/>
-</a>
-<br> 
-
-> **Get Pair Code (Session ID)**
-
-<a href='https://khanmdx3.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
 
 ---
 
