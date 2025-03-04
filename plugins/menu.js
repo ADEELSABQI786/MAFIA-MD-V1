@@ -26,22 +26,22 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• Quranmenu🤍
-┃◈┃• Prayertime🤲
-┃◈┃• Aimenu🦾
-┃◈┃• Anmiemenu👨‍🦰
-┃◈┃• Reactions😍
-┃◈┃• Convertmenu🙉
-┃◈┃• Funmenu🤹‍♂️
-┃◈┃• Dlmenu🀄
-┃◈┃• Listcmd♟
-┃◈┃• Mainmenu🎮
-┃◈┃• Groupmenu🎭
-┃◈┃• Allmenu🤿
-┃◈┃• Ownermenu🚔
-┃◈┃• Othermenu🎢
-┃◈┃• Logo <text>🌃
-┃◈┃• Repo🗽
+┃◈┃• Quranmenu
+┃◈┃• Prayertime
+┃◈┃• Aimenu
+┃◈┃• Anmiemenu
+┃◈┃• Reactions
+┃◈┃• Convertmenu
+┃◈┃• Funmenu
+┃◈┃• Dlmenu
+┃◈┃• Listcmd
+┃◈┃• Mainmenu
+┃◈┃• Groupmenu
+┃◈┃• Allmenu
+┃◈┃• Ownermenu
+┃◈┃• Othermenu
+┃◈┃• Logo <text>
+┃◈┃• Repo
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -57,7 +57,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363300351654980@newsletter',
-                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ',
+                        newsletterName: 'MAFIA-ADEEL',
                         serverMessageId: 143
                     }
                 }
